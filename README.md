@@ -1,12 +1,37 @@
-# React + Vite
+# 🛍️ E-Commerce App (Vite + React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern e-commerce frontend built using **Vite** and **React**, offering blazing-fast performance and a smooth development experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Getting Started
 
-## Expanding the ESLint configuration
+Follow the steps below to install and run the project on your local machine.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 📦 Prerequisites
+
+Make sure the following are installed on your system:
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (comes with Node.js)
+
+---
+
+### 📥 Installation & Running the App
+Installation
+
+Clone the repository
+git clone https://github.com/sushant-sg9/e-commerce
+cd e-commerce
+
+Install dependencies
+npm install
+# or with yarn
+yarn install
+
+Start the development server
+npm run dev
+# or with yarn
+yarn dev
